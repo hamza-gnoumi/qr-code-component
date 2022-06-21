@@ -30,7 +30,7 @@ body{
     border-radius: 15px;
     -webkit-border-radius: 15px;
     -moz-border-radius: 15px;
-    width: 315px;
+    width: 320px;
     
 
 }
@@ -44,7 +44,7 @@ body{
 
 
 }
-.container h2{
+.container h1{
     color: var(--Dark-blue);
     font-size: 22px;
 }
